@@ -1,0 +1,17 @@
+{
+  "name": "lukemartin.github.com.v8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukemartin/lukemartin.github.com.v8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "homepage": "https://github.com/lukemartin/lukemartin.github.com.v8#readme"
+}
