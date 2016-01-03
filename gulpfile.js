@@ -4,6 +4,7 @@ var sourcemaps = require('gulp-sourcemaps');
 var browserSync = require('browser-sync').create();
 
 var sass = require('gulp-sass');
+var bourbon = require('node-bourbon');
 
 var header = require('gulp-header');
 var pkg = require('./package.json');
@@ -28,16 +29,18 @@ gulp.task('serve', ['sass'], function() {
     }
   });
 
-  gulp.watch(['./scss/**/*.scss'], ['sass']);
+  gulp.watch(['scss/**/*.scss'], ['sass']);
+  gulp.watch(['**/*.html'], browserSync.reload);
 });
 
 gulp.task('sass', function(done) {
   console.log('~> Compiling Sass');
 
-  return gulp.src('./scss/styles.scss')
+  return gulp.src('scss/styles.scss')
     .pipe(sourcemaps.init())
     .pipe(sass({
-      errLogToConsole: true
+      errLogToConsole: true,
+      includePaths: bourbon.includePaths
     }))
     .pipe(header(banner, { pkg: pkg }))
     .pipe(sourcemaps.write())

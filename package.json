@@ -1,7 +1,7 @@
 {
   "name": "lukemartin.github.com.v8",
   "version": "1.0.0",
-  "description": "Portfolio site for Luke Martin",
+  "description": "Portfolio of Luke Martin, a freelance Developer based in London.",
   "main": "index.js",
   "scripts": {
     "start": "gulp serve"
@@ -19,6 +19,7 @@
     "gulp": "^3.9.0",
     "gulp-header": "^1.7.1",
     "gulp-sass": "^2.1.1",
-    "gulp-sourcemaps": "^1.6.0"
+    "gulp-sourcemaps": "^1.6.0",
+    "node-bourbon": "^4.2.3"
   }
 }

@@ -1,0 +1,11 @@
+.mh {
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(center);
+  height: 100vh;
+}
+
+.mh__content {
+  @include flex(1);
+  text-align: center;
+}
