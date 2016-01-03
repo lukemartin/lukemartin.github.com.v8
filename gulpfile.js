@@ -6,6 +6,8 @@ var browserSync = require('browser-sync').create();
 var sass = require('gulp-sass');
 var bourbon = require('node-bourbon');
 
+var ts = require('gulp-typescript');
+
 var header = require('gulp-header');
 var pkg = require('./package.json');
 
@@ -30,10 +32,11 @@ gulp.task('serve', ['sass'], function() {
   });
 
   gulp.watch(['scss/**/*.scss'], ['sass']);
+  gulp.watch(['ts/**/*.ts'], ['ts']);
   gulp.watch(['**/*.html'], browserSync.reload);
 });
 
-gulp.task('sass', function(done) {
+gulp.task('sass', function() {
   console.log('~> Compiling Sass');
 
   return gulp.src('scss/styles.scss')
@@ -46,7 +49,22 @@ gulp.task('sass', function(done) {
     .pipe(sourcemaps.write())
     .pipe(gulp.dest('./css'))
     .pipe(browserSync.stream());
-    // .on('end', done);
+});
+
+gulp.task('ts', function() {
+  console.log('~> Compiling TypeScript');
+
+  return gulp.src('ts/app.ts')
+    .pipe(sourcemaps.init())
+    .pipe(ts({
+      noImplicitAny: false,
+      outFile: 'app.js',
+      target: 'ES5',
+      module: 'system'
+    }))
+    .pipe(sourcemaps.write())
+    .pipe(gulp.dest('./js'))
+    .pipe(browserSync.stream());
 });
 
 gulp.task('default', ['serve']);
