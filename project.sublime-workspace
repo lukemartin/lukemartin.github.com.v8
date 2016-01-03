@@ -1,0 +1,1830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"filter-",
+				"filter--location"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tu",
+				"timeout	setTimeout function"
+			],
+			[
+				"pr",
+				"providers"
+			],
+			[
+				"total",
+				"totalPrice"
+			],
+			[
+				"card",
+				"cardHeight"
+			],
+			[
+				"option",
+				"option__provider"
+			],
+			[
+				"alter",
+				"alternate--form"
+			],
+			[
+				"cb",
+				"cb-stroke-size"
+			],
+			[
+				"appo",
+				"appointmentStartTime"
+			],
+			[
+				"set",
+				"setPath"
+			],
+			[
+				"cars",
+				"carouselIndex"
+			],
+			[
+				"hair",
+				"hairstyle"
+			],
+			[
+				"hairst",
+				"hairstyle"
+			],
+			[
+				"move",
+				"moveBy"
+			],
+			[
+				"item",
+				"itemWidth"
+			],
+			[
+				"carousel",
+				"carouselIndex"
+			],
+			[
+				"service",
+				"service-list-item"
+			],
+			[
+				"contain",
+				"container-standard"
+			],
+			[
+				"container-",
+				"container-fluid--alt"
+			],
+			[
+				"image",
+				"image-triplet__main"
+			],
+			[
+				"get",
+				"getSalonImages"
+			],
+			[
+				"feature-",
+				"feature-panel--salon"
+			],
+			[
+				"ser",
+				"service-list-item__close"
+			],
+			[
+				"servi",
+				"service-list-item__btn"
+			],
+			[
+				"seri",
+				"service-list-item-content"
+			],
+			[
+				"serv",
+				"service-list-item__name"
+			],
+			[
+				"service-list-item",
+				"service-list-item__btn"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"feature",
+				"feature-panel__subtitle"
+			],
+			[
+				"feature-panel",
+				"feature-panel__subtitle"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"spinn",
+				"spinnerTemplate"
+			],
+			[
+				"sort",
+				"sortData"
+			],
+			[
+				"overl",
+				"overlayTemplate"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"add",
+				"additionalTags"
+			],
+			[
+				"vs",
+				"visibleItems"
+			],
+			[
+				"Hai",
+				"Hairstyles"
+			],
+			[
+				"curret",
+				"currentIndex"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"visib",
+				"visibleItems"
+			],
+			[
+				"visi",
+				"visibleItems"
+			],
+			[
+				"car",
+				"carouselWidth"
+			],
+			[
+				"Hair",
+				"HairstylesGalleryService"
+			],
+			[
+				"sk",
+				"sk-container"
+			],
+			[
+				"ImageGalle",
+				"ImageGalleryModule"
+			],
+			[
+				"her",
+				"hairstyle-gallery-hero__image"
+			],
+			[
+				"hai",
+				"feature-panel--hairstyle"
+			],
+			[
+				"aa",
+				"feature-panel__avatar"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"http",
+				"httpProxy"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"font-",
+				"font-size-h6"
+			],
+			[
+				"hairstyles",
+				"hairstyles-grid--compact"
+			],
+			[
+				"hairstylesg",
+				"hairstyles-grid-item"
+			],
+			[
+				"scrol",
+				"scroll-appear-show"
+			],
+			[
+				"content",
+				"contentPos"
+			],
+			[
+				"tri",
+				"triggerPos"
+			],
+			[
+				"layerd-i",
+				"layered-image__bg"
+			],
+			[
+				"centre",
+				"centreLong"
+			],
+			[
+				"cent",
+				"centreLong"
+			],
+			[
+				"web",
+				"websiteFormat"
+			],
+			[
+				"hairstyl",
+				"hairstyles-grid-item"
+			],
+			[
+				"fea",
+				"feature-panel__avatar"
+			],
+			[
+				"from",
+				"fromPrice"
+			],
+			[
+				"mode",
+				"mode"
+			],
+			[
+				"butt",
+				"buttonLabels"
+			],
+			[
+				"_syn",
+				"_startSyncInterval"
+			],
+			[
+				"hairs",
+				"hairstyles"
+			],
+			[
+				"auth",
+				"AuthService"
+			],
+			[
+				"error",
+				"errorOverrides"
+			],
+			[
+				"def",
+				"defaultErrors"
+			],
+			[
+				"modal",
+				"modalHairstyles"
+			],
+			[
+				"_",
+				"_getHeaders"
+			],
+			[
+				"unta",
+				"isUntagged"
+			],
+			[
+				"unt",
+				"isUntagged"
+			],
+			[
+				"child",
+				"childBounds"
+			],
+			[
+				"Down",
+				"DownloadQueueService"
+			],
+			[
+				"watc",
+				"watchify"
+			],
+			[
+				"resolve",
+				"resolveLocalFileSystemURL"
+			],
+			[
+				"_movep",
+				"_moveProfileImage"
+			],
+			[
+				"_mo",
+				"_moveAFile"
+			],
+			[
+				"_move",
+				"_moveProfileImage"
+			],
+			[
+				"hcvt-loca",
+				"hcvt-local-image-loading"
+			],
+			[
+				"DB",
+				"DBService"
+			],
+			[
+				"instagra",
+				"instagramInstalled"
+			],
+			[
+				"act",
+				"activeSlide"
+			],
+			[
+				"_del",
+				"_deleteHairstyle"
+			],
+			[
+				"delete",
+				"_deleteImage"
+			],
+			[
+				"styl",
+				"stylistProfile"
+			],
+			[
+				"styli",
+				"stylistProfile"
+			],
+			[
+				"ioni",
+				"ionicHistory"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Auth",
+				"AuthService"
+			],
+			[
+				"_con",
+				"_convertHairstyleTags"
+			],
+			[
+				"hairsty",
+				"hairstyle"
+			],
+			[
+				"mi",
+				"MigrationService"
+			],
+			[
+				"downl",
+				"downloadFile"
+			],
+			[
+				"profi",
+				"profileImage"
+			],
+			[
+				"prof",
+				"profileImage"
+			],
+			[
+				"imge",
+				"imageCaptured"
+			],
+			[
+				"addha",
+				"addHairstyleTags"
+			],
+			[
+				"Db",
+				"DBService"
+			],
+			[
+				"remove",
+				"removeHairstyleImages"
+			],
+			[
+				"upload",
+				"uploadImage"
+			],
+			[
+				"remote",
+				"remoteHairstyle"
+			],
+			[
+				"proces",
+				"processData"
+			],
+			[
+				"cordova",
+				"cordovaFile"
+			],
+			[
+				"docum",
+				"documentsDirectory"
+			],
+			[
+				"cordo",
+				"cordovaFile"
+			],
+			[
+				"read",
+				"readAsText"
+			],
+			[
+				"stl",
+				"stylistPortfolio"
+			],
+			[
+				"fla",
+				"flattenedStylistHairstyles"
+			],
+			[
+				"flatt",
+				"flattenedStylistHairstyles"
+			],
+			[
+				"flat",
+				"flattenStylistHairstyles"
+			],
+			[
+				"cor",
+				"cordovaFileTransfer"
+			],
+			[
+				"rje",
+				"rejection"
+			],
+			[
+				"crea",
+				"createUserDataFile"
+			],
+			[
+				"doc",
+				"documentsDirectory"
+			],
+			[
+				"cord",
+				"cordovaFile"
+			],
+			[
+				"Migra",
+				"MigrationService"
+			],
+			[
+				"valid",
+				"validating"
+			],
+			[
+				"hist",
+				"ionicHistory"
+			],
+			[
+				"sty",
+				"stylistMode"
+			],
+			[
+				"action",
+				"cordovaActionSheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 472,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Ionic Emulate iOS",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"intal",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ennet",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 390.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luke/Development/Sites/lukemartin.github.com.v8/.gitignore",
+		"/Users/luke/tmp/ts/hello.ts",
+		"/Users/luke/Dropbox/dev/wow/pets/server.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/results.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/results-tool/_results-tool.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/SalonPage/hcvtSalonImageGallery.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/BookingForm/BookingFormController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/book.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/results-tool/_stylist-block.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/results/list.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/common/RootController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ResultsTool/List/ResultsToolListController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ResultsTool/Map/ResultsToolMapController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/app.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/_variables.bootstrap.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/form/details.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/form/time.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/common/Filter/GenderFilterFactory.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/results/services-popover.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/hairstyles-gallery/gallery.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Models/Hairstyle.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/stylist.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/HairstylesGallery/HairstylesGalleryController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/hairstyles-gallery/carousel.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/hairstyles-gallery/carousel-item.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/.eslintrc.yml",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2.sublime-project",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/cart/cart.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ResultsTool/Filters/ResultsToolFiltersController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/results-tool/_results-filters-modal.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/results-tool/_results-filters-table.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/partials/footer.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/hairstyle-gallery/_hairstyle-gallery.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/external/sass/components/modals.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_modals.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/salon.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/opening-hours.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_landing.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/common/Directive/FitToCharacters.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/homepage.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/services-modal.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/common/Filter/CurrencyTotalFilterFactory.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_services-modal.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/common/Filter/LocalDistanceFilterFactory.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_hairstyles-grid.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/_homepage.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/.env",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/cart/_cart.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/hairstyle-gallery/_hairstyle-gallery-modal.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_feature-panel.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/_global.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/HairstylesGallery/hcvtGalleryCarousel.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/HairstylesGallery/hcvtGalleryModal.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_cover-image.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/mixins/_object-fit.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_image-triplet.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_appointment-cards.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/appointment/_pending.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/Appointment/CustomerAppointmentController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/customer/agreed.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/customer/choosing.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/salon/pending.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/ConstantsBagModule.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/Appointment/hcvtAppointmentCards.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/salon/agreed.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/customer/canceled.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/salon/canceled.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/customer/appointment-details.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/salon/appointment-details.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/appointment/salon.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/Appointment/SalonAppointmentController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/appointment/salon/choosing.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/external/sass/global/typography.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/Appointment/AppointmentModule.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_calendar-badge.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/public/assets/iconmoon.css",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_type.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/appointment/_choosing.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/create.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/lang/en/copy.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/mixins/_alignment.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/BookingForm/TimePicker.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/helpers/_utilities.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Models/AppointmentOption.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Models/AppointmentService.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/Controllers/Admin/AppointmentsController.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/routes.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Payload/Appointment/BookingRequestPayload.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/appointments/_choosing.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/storage/logs/laravel.log",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/business.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/config/app.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/Controllers/Website/MiscController.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/lang/en/website.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/StylistPage/StylistPageController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/Controllers/Website/HairstylesController.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/Controllers/Website/StylistsController.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Models/Stylist.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/website/pages/hairstyle.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/HairstylesGallery/GalleryService.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ResultsTool/ResultsToolController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ScrollAppear/hcvtScrollAppear.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/HairstylesGallery/HairstylesGalleryModule.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/app.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ScrollTo/hcvtScrollTo.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_service-list.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/Map/hcvtMap.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/views/admin/salons/index.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/Controllers/Admin/SalonsController.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/Cart/BuyButtonController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/_salon-page.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/emails/agreed/stylist.blade.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/app/Http/Controllers/Website/SalonsController.php",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/SalonPage/SalonPageController.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/SalonPage/SalonPageModule.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/salon-bio-modal.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/salon-bio-moda.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/UIBootstrap/popover/PopoverClasses.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/service-list/service-list-item.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/templates/service-list/service-list.html",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/AppKernel.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js/components/ServicesModal/ModalService.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/_variables.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/partials/_main-header.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/sass/components/_hairstyle-gallery.scss",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/gulp-tasks/javascripts-vendors.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/gulp-tasks/javascripts-watch.js",
+		"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/gulpfile.babel.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.scss",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.html",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"",
+			"*.js",
+			"*.php",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.css",
+			"*.php",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-v2/v2/resources/assets/website/js",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/www/languages/fr-FR",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js",
+			"*.js",
+			"*.html",
+			"*.hyml",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/www/templates",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/www/languages",
+			"*.js",
+			"*.html",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/www/languages/fr-FR",
+			"*.js",
+			"*.html",
+			"*.js",
+			"",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/www/templates",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/js/controllers",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-app-v2/www/templates",
+			"",
+			"*.js",
+			"*.hbs",
+			"*.",
+			"*.js",
+			"*.hbs",
+			"*.js",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-api/app/controllers",
+			"",
+			"/Users/luke/Work/HAIRCVT/build/haircvt-api/app/views/admin",
+			"",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"number",
+			"<th",
+			"result",
+			"matches",
+			"div",
+			"block",
+			"dropdown-item",
+			"col-xs-10 fi",
+			"orange",
+			"col-xs-6\">",
+			"\"col-xs-10\">",
+			"class=\"col-xs-1\">",
+			"s-1\">",
+			"\"col-xs-1\">",
+			"col-xs-1\"",
+			"col-xs-1",
+			"td",
+			"min-height: 98px",
+			"results-filters-table",
+			"give us a time",
+			"booking-info-popover",
+			"content.header",
+			"popoverContent",
+			"the latest time",
+			"the bigger the window",
+			"stylist-description",
+			"stylist-profile-image-col",
+			"InfoWindow",
+			"_focusOnSalon",
+			"MAP_FOCUS_SALON",
+			"stylistClickedDesktop",
+			"launch(",
+			"result.stylist.Services.flagship",
+			"ha-add-to-",
+			"hs-add-to-",
+			"hs-add-tocart",
+			" extra-timeband-trigger",
+			"| gender",
+			", '",
+			"pull-xs-left",
+			"col-xs-12 col-md-4 col-md-offset-2 col-xl-3 col-xl-offset-3",
+			"col-xs-12 col-md-4 col-md-offset-2 col-xl-3 col-xl-offset-3 m-y",
+			"$font-family-base",
+			"thumb",
+			"scrollTarget",
+			"dropdown",
+			"dropdown-toggle",
+			"results-filters-table-services",
+			"modal-dial",
+			"short-notice-modal",
+			"hairstyle-gallery-hero__thumb",
+			"['ImageSets'][2]",
+			"['ImageSets'][1]",
+			"ha-book-timeband-date",
+			" btn-block",
+			"btn-block ",
+			"Ah, for last minute appointments",
+			"styles",
+			"calc(",
+			"ha-add-to-cart",
+			"more-services-butto",
+			"more-ser",
+			"stylist-service-col",
+			"more-services-button",
+			"result.stylist.Services.flagship.Price.Price",
+			"toggleServicesModal",
+			"localDistance",
+			"00r",
+			".4",
+			"0.46875",
+			".8",
+			"localDistance",
+			"9375rem",
+			"$spacer",
+			"btn-view-salon-col",
+			"ha-stylist-results-view-salon",
+			"col-xs-6 col-md-12 btn-view-salon-col",
+			"My details",
+			"ha-stylist-results-salon-link",
+			"salon-preview-more-info",
+			"See Inside",
+			"padding-top: 10vh;",
+			".main-content",
+			".hairstyles-gallery-modal__content",
+			".hairstyles-gallery-modal__content .hairstyle-gallery__meta-tags li",
+			", $elem",
+			"calc",
+			"object-fit-cover",
+			"daniel.robinson",
+			"DETAILS",
+			"div",
+			"$timeout",
+			"hcvt-appointment-cards",
+			"appt-card__service-name",
+			"appt-card",
+			"<div class=\"appt-card__service-provider\">",
+			"option",
+			"\"option",
+			"option",
+			"container-standard",
+			"3",
+			"9",
+			"height",
+			"outerHeight",
+			"height",
+			"option__services",
+			"cardHeight",
+			"card",
+			"this",
+			"option__body",
+			"SalonAppointmentController",
+			"bottom",
+			"option--",
+			"--",
+			"alternate--",
+			"--",
+			"calendar-badge--",
+			"--",
+			"f5f6f8",
+			"choosing",
+			"APPOINTMENT_STATUS",
+			"TODO",
+			"addAlternate",
+			"md-xvalign-middle",
+			"2.8",
+			"1.5",
+			"span",
+			"select_date"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"]",
+			"[",
+			"this.$rootScope",
+			"...",
+			"&",
+			"\": \"[FR] ",
+			">",
+			"",
+			"button-dark",
+			"{{ adminPath }}",
+			"$1if(err) {\\n$1  console.log(err);\\n$1}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": false,
+								"bitwise": true,
+								"boss": false,
+								"browser": true,
+								"camelcase": true,
+								"curly": true,
+								"debug": false,
+								"eqeqeq": true,
+								"eqnull": false,
+								"es3": false,
+								"esnext": false,
+								"evil": false,
+								"expr": false,
+								"forin": true,
+								"freeze": true,
+								"funcscope": false,
+								"globals":
+								{
+								},
+								"immed": true,
+								"indent": 2.0,
+								"iterator": false,
+								"jquery": true,
+								"lastsemic": false,
+								"latedef": true,
+								"laxbreak": false,
+								"laxcomma": true,
+								"loopfunc": false,
+								"maxcomplexity": false,
+								"maxdepth": false,
+								"maxlen": 140.0,
+								"maxparams": false,
+								"maxstatements": false,
+								"moz": false,
+								"multistr": false,
+								"newcap": true,
+								"noarg": true,
+								"node": true,
+								"noempty": false,
+								"nonew": true,
+								"notypeof": false,
+								"plusplus": true,
+								"proto": false,
+								"quotmark": "single",
+								"scripturl": false,
+								"shadow": false,
+								"smarttabs": false,
+								"strict": true,
+								"sub": false,
+								"supernew": false,
+								"trailing": true,
+								"undef": true,
+								"unused": "vars",
+								"validthis": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"imagetri",
+				"resources/assets/website/sass/components/_image-triplet.scss"
+			],
+			[
+				"salonblad",
+				"resources/views/website/pages/salon.blade.php"
+			],
+			[
+				"stylistblade",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"salonimagega",
+				"resources/assets/website/js/components/SalonPage/hcvtSalonImageGallery.js"
+			],
+			[
+				"resultscont",
+				"resources/assets/website/js/components/ResultsTool/List/ResultsToolListController.js"
+			],
+			[
+				"servicespopo",
+				"resources/assets/website/templates/results/services-popover.html"
+			],
+			[
+				"gender",
+				"resources/assets/website/js/common/Filter/GenderFilterFactory.js"
+			],
+			[
+				"galleryht",
+				"resources/assets/website/templates/hairstyles-gallery/gallery.html"
+			],
+			[
+				"list",
+				"resources/assets/website/templates/results/list.html"
+			],
+			[
+				"carouseitem",
+				"resources/assets/website/templates/hairstyles-gallery/carousel-item.html"
+			],
+			[
+				"carouse",
+				"resources/assets/website/templates/hairstyles-gallery/carousel.html"
+			],
+			[
+				"gallerycn",
+				"resources/assets/website/js/components/HairstylesGallery/HairstylesGalleryController.js"
+			],
+			[
+				"modelhai",
+				"app/Models/Hairstyle.php"
+			],
+			[
+				"resultl",
+				"resources/assets/website/js/components/ResultsTool/List/ResultsToolListController.js"
+			],
+			[
+				"cart",
+				"resources/assets/website/templates/cart/cart.html"
+			],
+			[
+				"app",
+				"resources/assets/website/sass/app.scss"
+			],
+			[
+				"foot",
+				"resources/views/website/partials/footer.blade.php"
+			],
+			[
+				"modal",
+				"resources/assets/external/sass/components/modals.scss"
+			],
+			[
+				"opening",
+				"resources/assets/website/templates/opening-hours.html"
+			],
+			[
+				"salonblade",
+				"resources/views/website/pages/salon.blade.php"
+			],
+			[
+				"styliblade",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"landingscs",
+				"resources/assets/website/sass/components/_landing.scss"
+			],
+			[
+				"fitto",
+				"resources/assets/website/js/common/Directive/FitToCharacters.js"
+			],
+			[
+				"landing",
+				"resources/assets/website/sass/components/_landing.scss"
+			],
+			[
+				"homepageblad",
+				"resources/views/website/pages/homepage.blade.php"
+			],
+			[
+				"list.ht",
+				"resources/assets/website/templates/results/list.html"
+			],
+			[
+				"servicemodal",
+				"resources/assets/website/templates/services-modal.html"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"cartscss",
+				"resources/assets/website/sass/components/cart/_cart.scss"
+			],
+			[
+				"homepagescs",
+				"resources/assets/website/sass/partials/_homepage.scss"
+			],
+			[
+				"homepage",
+				"resources/views/website/pages/homepage.blade.php"
+			],
+			[
+				"featurepanel",
+				"resources/assets/website/sass/components/_feature-panel.scss"
+			],
+			[
+				"stylblade",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryCarousel.js"
+			],
+			[
+				"gallerycont",
+				"resources/assets/website/js/components/HairstylesGallery/HairstylesGalleryController.js"
+			],
+			[
+				"gallery",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryModal.js"
+			],
+			[
+				"galleryjs",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryCarousel.js"
+			],
+			[
+				"hairstylesgrd",
+				"resources/assets/website/sass/components/_hairstyles-grid.scss"
+			],
+			[
+				"cover",
+				"resources/assets/website/sass/components/_cover-image.scss"
+			],
+			[
+				"appontmendt",
+				"resources/assets/website/templates/appointment/salon/appointment-details.html"
+			],
+			[
+				"appdetails",
+				"resources/assets/website/templates/appointment/salon/appointment-details.html"
+			],
+			[
+				"agree",
+				"resources/assets/website/templates/appointment/salon/agreed.html"
+			],
+			[
+				"appointcard",
+				"resources/assets/website/js/components/Appointment/hcvtAppointmentCards.js"
+			],
+			[
+				"customerpr",
+				"resources/assets/website/js/components/Appointment/CustomerAppointmentController.js"
+			],
+			[
+				"pending",
+				"resources/assets/website/templates/appointment/salon/pending.html"
+			],
+			[
+				"customerhtml",
+				"resources/assets/website/templates/appointment/customer/agreed.html"
+			],
+			[
+				"choosing",
+				"resources/assets/website/templates/appointment/salon/choosing.html"
+			],
+			[
+				"canceled",
+				"resources/assets/website/templates/appointment/salon/canceled.html"
+			],
+			[
+				"appondetails",
+				"resources/assets/website/templates/appointment/salon/appointment-details.html"
+			],
+			[
+				"details",
+				"resources/assets/website/templates/form/details.html"
+			],
+			[
+				"pe",
+				"resources/assets/website/templates/appointment/salon/pending.html"
+			],
+			[
+				"choosin",
+				"resources/assets/website/templates/appointment/salon/choosing.html"
+			],
+			[
+				"appoinsalonbla",
+				"resources/views/website/pages/appointment/salon.blade.php"
+			],
+			[
+				"apponcontrollerjs",
+				"resources/assets/website/js/components/Appointment/SalonAppointmentController.js"
+			],
+			[
+				"variaboo",
+				"resources/assets/website/sass/_variables.bootstrap.scss"
+			],
+			[
+				"typ",
+				"resources/assets/external/sass/global/typography.scss"
+			],
+			[
+				"varia",
+				"resources/assets/website/sass/_variables.bootstrap.scss"
+			],
+			[
+				"type",
+				"resources/assets/website/sass/components/_type.scss"
+			],
+			[
+				"choocss",
+				"resources/assets/website/sass/partials/appointment/_choosing.scss"
+			],
+			[
+				"gallerymodal",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryModal.js"
+			],
+			[
+				"listh",
+				"resources/assets/website/templates/results/list.html"
+			],
+			[
+				"carouseljs",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryCarousel.js"
+			],
+			[
+				"pendinghtml",
+				"resources/assets/website/templates/appointment/salon/pending.html"
+			],
+			[
+				"stylistba",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"align",
+				"resources/assets/website/sass/mixins/_alignment.scss"
+			],
+			[
+				"uti",
+				"resources/assets/website/sass/helpers/_utilities.scss"
+			],
+			[
+				"alignm",
+				"resources/assets/website/sass/mixins/_alignment.scss"
+			],
+			[
+				"timepicker",
+				"resources/assets/website/js/components/BookingForm/TimePicker.js"
+			],
+			[
+				"bookingrormcont",
+				"resources/assets/website/js/components/BookingForm/BookingFormController.js"
+			],
+			[
+				"time.ht",
+				"resources/assets/website/templates/form/time.html"
+			],
+			[
+				"varibboot",
+				"resources/assets/website/sass/_variables.bootstrap.scss"
+			],
+			[
+				"variaboot",
+				"resources/assets/website/sass/_variables.bootstrap.scss"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"appcontro",
+				"app/Http/Controllers/Admin/AppointmentsController.php"
+			],
+			[
+				"appointmentserv",
+				"app/Models/AppointmentService.php"
+			],
+			[
+				"modelapp",
+				"app/Models/AppointmentOption.php"
+			],
+			[
+				"appointment",
+				"app/Models/AppointmentService.php"
+			],
+			[
+				"bookin",
+				"app/Payload/Appointment/BookingRequestPayload.php"
+			],
+			[
+				"ty",
+				"resources/assets/external/sass/global/typography.scss"
+			],
+			[
+				"choosinscs",
+				"resources/assets/website/sass/partials/appointment/_choosing.scss"
+			],
+			[
+				"salonappo",
+				"resources/assets/website/js/components/Appointment/SalonAppointmentController.js"
+			],
+			[
+				"lara",
+				"storage/logs/laravel.log"
+			],
+			[
+				"misccon",
+				"app/Http/Controllers/Website/MiscController.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"config",
+				"config/app.php"
+			],
+			[
+				"homepag",
+				"resources/views/website/pages/homepage.blade.php"
+			],
+			[
+				"galleryscss",
+				"resources/assets/website/sass/components/hairstyle-gallery/_hairstyle-gallery-modal.scss"
+			],
+			[
+				"stylistcontr",
+				"resources/assets/website/js/components/StylistPage/StylistPageController.js"
+			],
+			[
+				"hcvtgallerymo",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryModal.js"
+			],
+			[
+				"stylistblade.php",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"hairstylecontro",
+				"app/Http/Controllers/Website/HairstylesController.php"
+			],
+			[
+				"carous",
+				"resources/assets/website/templates/hairstyles-gallery/carousel.html"
+			],
+			[
+				"hcvtsrol",
+				"resources/assets/website/js/components/ScrollAppear/hcvtScrollAppear.js"
+			],
+			[
+				"modehair",
+				"app/Models/Hairstyle.php"
+			],
+			[
+				"modelsty",
+				"app/Models/Stylist.php"
+			],
+			[
+				"salonimage",
+				"resources/assets/website/js/components/SalonPage/hcvtSalonImageGallery.js"
+			],
+			[
+				"listcontro",
+				"resources/assets/website/js/components/ResultsTool/List/ResultsToolListController.js"
+			],
+			[
+				"laravel",
+				"storage/logs/laravel.log"
+			],
+			[
+				"stylistcontro",
+				"app/Http/Controllers/Website/StylistsController.php"
+			],
+			[
+				"hairstylcontr",
+				"app/Http/Controllers/Website/HairstylesController.php"
+			],
+			[
+				"carouseht",
+				"resources/assets/website/templates/hairstyles-gallery/carousel.html"
+			],
+			[
+				"gallerht",
+				"resources/assets/website/templates/hairstyles-gallery/gallery.html"
+			],
+			[
+				"hairstyleblade",
+				"resources/views/website/pages/hairstyle.blade.php"
+			],
+			[
+				"scrollapp",
+				"resources/assets/website/js/components/ScrollAppear/hcvtScrollAppear.js"
+			],
+			[
+				"hcvtscoll",
+				"resources/assets/website/js/components/ScrollTo/hcvtScrollTo.js"
+			],
+			[
+				"gallerymoda",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryModal.js"
+			],
+			[
+				"gallerycontr",
+				"resources/assets/website/js/components/HairstylesGallery/HairstylesGalleryController.js"
+			],
+			[
+				"hcvtgall",
+				"resources/assets/website/js/components/HairstylesGallery/hcvtGalleryCarousel.js"
+			],
+			[
+				"hairstlegalleryhtm",
+				"resources/assets/website/templates/hairstyles-gallery/gallery.html"
+			],
+			[
+				"configapp",
+				"config/app.php"
+			],
+			[
+				"salon.blade",
+				"resources/views/website/pages/salon.blade.php"
+			],
+			[
+				"servicelist",
+				"resources/assets/website/sass/components/_service-list.scss"
+			],
+			[
+				"hcvtma",
+				"resources/assets/website/js/components/Map/hcvtMap.js"
+			],
+			[
+				"results",
+				"resources/assets/website/templates/results/list.html"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"servicesscs",
+				"resources/assets/website/sass/components/_service-list.scss"
+			],
+			[
+				"adminsalonsindex",
+				"resources/views/admin/salons/index.blade.php"
+			],
+			[
+				"salonscontroll",
+				"app/Http/Controllers/Admin/SalonsController.php"
+			],
+			[
+				"triple",
+				"resources/assets/website/sass/components/_image-triplet.scss"
+			],
+			[
+				"service-list",
+				"resources/assets/website/sass/components/_service-list.scss"
+			],
+			[
+				"feature",
+				"resources/assets/website/sass/components/_feature-panel.scss"
+			],
+			[
+				"stylist",
+				"app/Models/Stylist.php"
+			],
+			[
+				"buybut",
+				"resources/assets/website/js/components/Cart/BuyButtonController.js"
+			],
+			[
+				"websitestybla",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"salonpagescs",
+				"resources/assets/website/sass/partials/_salon-page.scss"
+			],
+			[
+				"stylistla",
+				"resources/views/website/pages/stylist.blade.php"
+			],
+			[
+				"hcvtm",
+				"resources/assets/website/js/components/Map/hcvtMap.js"
+			],
+			[
+				"hairstylgri",
+				"resources/assets/website/sass/components/_hairstyles-grid.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true
+}

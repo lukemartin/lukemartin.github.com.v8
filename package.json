@@ -1,17 +1,24 @@
 {
   "name": "lukemartin.github.com.v8",
   "version": "1.0.0",
-  "description": "",
+  "description": "Portfolio site for Luke Martin",
   "main": "index.js",
   "scripts": {
+    "start": "gulp serve"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lukemartin/lukemartin.github.com.v8.git"
   },
-  "author": "",
+  "author": "Luke Martin",
   "license": "ISC",
-  "bugs": {
-  },
-  "homepage": "https://github.com/lukemartin/lukemartin.github.com.v8#readme"
+  "bugs": {},
+  "homepage": "http://luke.is",
+  "dependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-header": "^1.7.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0"
+  }
 }
